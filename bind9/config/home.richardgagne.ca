@@ -1,0 +1,17 @@
+$TTL 2d
+
+$ORIGIN home.richardgagne.ca.
+
+@               IN       SOA      ns.home.richardgagne.ca. richard@richardgagne.ca (
+                                  20250610       ; serials
+                                  12h            ; refresh
+                                  15m            ; retry
+                                  3w             ; expire
+                                  2h             ; minimum ttl
+                                  )
+
+                IN       NS      ns.home.richardgagne.ca. 
+
+ns              IN       A       192.168.2.46
+
+; -- add dns record bellow
