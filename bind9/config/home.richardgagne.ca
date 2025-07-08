@@ -15,3 +15,4 @@ $ORIGIN home.richardgagne.ca.
 ns              IN       A       192.168.2.46
 
 ; -- add dns record bellow
+k3s-1           IN       A       192.168.2.47
