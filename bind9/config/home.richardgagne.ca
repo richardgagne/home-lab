@@ -16,3 +16,5 @@ ns              IN       A       192.168.2.46
 
 ; -- add dns record bellow
 k3s-1           IN       A       192.168.2.47
+
+pve-1           IN       A       192.168.2.51
